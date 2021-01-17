@@ -31,7 +31,7 @@ value*/
 /*loop of FOR, statement 1, i = 0 and is executed
 (one time) before the execution of the code block.
 Statement 1 sets a value to variable before the loop
-starts (let i = 0).*/
+starts (let i = 0). this points to the first value in the array.*/
 /*Statement 2 defines the condition for the loop
 to run or execute the code block (i must be less than
 arr.length). i must be less, so that way it loops through
