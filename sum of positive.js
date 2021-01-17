@@ -56,6 +56,8 @@ that array point to the total sum*/
 		sum += arr[i];
 	    }
 	}
+//then return the total through the sum variable
+
 	return sum;
 }
 
