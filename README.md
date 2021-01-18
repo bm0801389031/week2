@@ -25,3 +25,17 @@ Example [1,-4,7,12] =>
 Note: if there is nothing to sum, 
 the sum is default to 0.
 FUNDAMENTALS, ARRAYS, NUMBERS 
+
+4. opposite number & pdf of psudo code
+
+Description:
+
+Very simple, given a number, find its opposite.
+
+Examples:
+
+1: -1
+14: -14
+-34: 34
+
+    FUNDAMENTALS
