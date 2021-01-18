@@ -18,6 +18,7 @@ two negatives cancel each other out, making it a
 positive.. and when i need a negative from a positive,
 returning negative number simply makes my solution a
 a negative.. */
+    return (-number);
 
 }
 
