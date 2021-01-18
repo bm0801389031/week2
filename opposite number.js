@@ -10,7 +10,14 @@ Examples:
 -34: 34
 */
 
+/*set function to opposite with a parametar, argument
+of number */
 function opposite(number) {
+/*return negative number, the logic behind this is that
+two negatives cancel each other out, making it a 
+positive.. and when i need a negative from a positive,
+returning negative number simply makes my solution a
+a negative.. */
 
 }
 
